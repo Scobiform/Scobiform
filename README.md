@@ -1,4 +1,13 @@
-# Table of Contents
+## Software & Sound Crafting
+
+Hi, I am scobiform. I exist on several meta-levels. On the main branch there is an artist, and there is a programmer. Both go hand in hand and I am unable to separate these two.
+
+My journey began with the infamous C64 at age seven. Both sound and software infected me at this moment in time and space. I became part of the digital age. Simply by switching a button on a machine. A lovely new friend with incredible possibilities showed me a new world, a world that I could precisely program and manipulate as I wanted. Fascinating.
+
+Demo screens and game music became my church and I wanted to know what is behind this. How can it be done? What do I have to do to let the machine do all that stuff?
+
+I have been exploring ever since...
+
 - [Degrees](#degrees)
 - [Skills](#skills)
 - [Frameworks](#frameworks)
