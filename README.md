@@ -1,4 +1,4 @@
-## Software & Sound Crafting
+## Software & Soundcrafting
 
 Hi, I am scobiform. I exist on several meta-levels. On the main branch there is an artist, and there is a programmer. Both go hand in hand and I am unable to separate these two.
 
