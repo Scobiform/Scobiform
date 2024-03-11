@@ -46,8 +46,8 @@ Framework._
 * React
 
 ### Operating System
-* Windows
 * Debian
+* Windows
 
 ### Experience
 * Webdesign - 25 years
