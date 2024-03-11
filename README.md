@@ -55,6 +55,7 @@ Framework._
 * E-Commerce - 18 years
 * Music production - 25 years
 * Music publishing (LC 18242) - 19 years
+* Marketing / PR - 19 years
 
 ### Countries I visited (28 / 195)
 🇦🇹 Austria 
