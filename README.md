@@ -51,7 +51,7 @@ Framework._
 
 ### Experience
 * Webdesign - 25 years
-* Server Administration (Ubuntu, Debian) - 22 years
+* Server Administration (Ubuntu, Debian) - 20 years
 * E-Commerce - 18 years
 * Music production - 25 years
 * Music publishing (LC 18242) - 19 years
