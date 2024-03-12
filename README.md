@@ -57,7 +57,8 @@ Framework._
 * Music publishing (LC 18242) - 19 years
 * Marketing / PR - 19 years
 
-### Countries I visited (28 / 195)
+### Countries I stepped into (28 / 195)
+Besides Germany, I lived two years in Kyrgyzstan, Bishkek. 
 🇦🇹 Austria 
 🇧🇦 Bosnia and Herzegovina 
 🇭🇷 Croatia
