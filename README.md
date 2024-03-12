@@ -60,6 +60,7 @@ Framework._
 ### Countries I stepped into (28 / 195)
 Besides Germany, I lived two years in Kyrgyzstan, Bishkek. 
 \
+\
 🇦🇹 Austria 
 🇧🇦 Bosnia and Herzegovina 
 🇭🇷 Croatia
