@@ -18,7 +18,7 @@ I have been exploring ever since...
 - [Contact](#contact)
 
 ### Degrees
-* **Computer Science Expert - Subject Area: Software Development** (Fachinformatiker*in für Anwendungsentwicklung, 2024 IHK Würzburg)
+* **Computer Science Expert - Software Development** (Fachinformatiker*in für Anwendungsentwicklung, 2024 IHK Würzburg)
 \
 _This qualification relates to level 4 of the German and the European Qualifications
 Framework._
