@@ -49,6 +49,12 @@ Framework._
 * Debian
 * Windows
 
+### Essentials
+* Nano
+* Postfix
+* Dovecot
+* NGINX
+
 ### Experience
 * Webdesign - 25 years
 * Server Administration (Ubuntu, Debian) - 20 years
