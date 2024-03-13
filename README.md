@@ -22,10 +22,12 @@ I have been exploring ever since...
 \
 _This qualification relates to level 4 of the German and the European Qualifications
 Framework._
+\
 * **Industrial Clerk** (2005 IHK Heidelberg)
 \
 _This qualification relates to level 4 of the German and the European Qualifications
 Framework._
+\
 
 ### Skills
 * C#
