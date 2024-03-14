@@ -61,6 +61,7 @@ Framework._
 
 ### Special traits
 * Visually impaired. Juvenile macular dystrophy
+* Neurodivergent as a symptom
 
 ### Countries I stepped into (28 / 195)
 Besides Germany, I lived two years in Kyrgyzstan, Bishkek. 
