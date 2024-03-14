@@ -43,7 +43,7 @@ Framework._
 * Typescript
 
 ### Frameworks
-* ASP.NET Core / Blazor
+* ASP.NET Core Blazor
 * Laravel
 * NextJS
 * React
