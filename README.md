@@ -60,7 +60,7 @@ Framework._
 * Music publishing (LC 18242) - 19 years
 * Marketing / PR - 19 years
 
-# Special traits
+### Special traits
 * Visually impaired. Juvenile macular dystrophy
 
 ### Countries I stepped into (28 / 195)
