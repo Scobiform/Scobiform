@@ -13,6 +13,7 @@ I have been exploring ever since...
 - [Frameworks](#frameworks)
 - [Operating System](#operating-system)
 - [Experience](#experience)
+- [Special traits](#special-traits)
 - [Countries I visited (28 / 195)](#countries-i-visited-28--195)
 - [Languages](#languages)
 - [Contact](#contact)
@@ -58,6 +59,9 @@ Framework._
 * Music production - 25 years
 * Music publishing (LC 18242) - 19 years
 * Marketing / PR - 19 years
+
+# Special traits
+* Visually impaired. Juvenile macular dystrophy
 
 ### Countries I stepped into (28 / 195)
 Besides Germany, I lived two years in Kyrgyzstan, Bishkek. 
