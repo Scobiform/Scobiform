@@ -94,9 +94,9 @@ Besides Germany, I lived two years in Kyrgyzstan, Bishkek.
 
 ### Languages
 * German (still figuring out this one)
-* English (social and business level good)
-* Russian (Still learning)
-* Ukrainian (exploring)
+* English (social and business level okayish)
+* Russian (Still learning, since 2014)
+* Ukrainian (exploring, started 2022)
 
 ### Contact
 You can contact me via 
