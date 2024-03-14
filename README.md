@@ -46,7 +46,6 @@ Framework._
 * ASP.NET Core Blazor
 * Laravel
 * NextJS
-* React
 
 ### Operating System
 * Debian
