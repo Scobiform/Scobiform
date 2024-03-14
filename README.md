@@ -60,7 +60,7 @@ Framework._
 * Marketing / PR - 19 years
 
 ### Special traits
-* Visually impaired. Juvenile macular dystrophy
+* Visually impaired (Juvenile macular dystrophy)
 * Neurodivergent as a symptom
 
 ### Countries I stepped into (28 / 195)
