@@ -106,3 +106,7 @@ Besides Germany, I lived two years in Kyrgyzstan, Bishkek.
 You can contact me via 
 [datenkrake@scobiform.com](mailto:datenkrake@scobiform.com)
 79612B620CC4A47C4B3B8382478A70606BAD6C79
+
+### EMAIL SELF-DEFENSE
+Bulk surveillance violates our fundamental rights and makes free speech risky. This guide will teach you a basic surveillance self-defense skill: email encryption.
+https://emailselfdefense.fsf.org/en/
