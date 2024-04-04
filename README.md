@@ -1,105 +1,66 @@
 # Software & Soundcrafting
 
-Hi, I am scobiform. I exist on several meta-levels. On the main branch there is an artist, and there is a programmer. Both go hand in hand and I am unable to separate these two.
-
-My journey began with the infamous C64 at age seven. Both sound and software infected me at this moment in time and space. I became part of the digital age. Simply by switching a button on a machine. A lovely new friend with incredible possibilities showed me a new world, a world that I could precisely program and manipulate as I wanted. Fascinating.
-
-Demo screens and game music became my church and I wanted to know what is behind this. How can it be done? What do I have to do to let the machine do all that stuff?
-
-I have been exploring ever since...
+## Navigate My World
 
 - [Degrees](#degrees)
 - [Skills](#skills)
 - [Frameworks](#frameworks)
-- [Operating System](#operating-system)
+- [Operating Systems](#operating-systems)
 - [Experience](#experience)
-- [Special traits](#special-traits)
-- [Countries I visited (28 / 195)](#countries-i-visited-28--195)
-- [Languages](#languages)
-- [Contact](#contact)
+- [Unique Qualities](#unique-qualities)
+- [Global Footprints](#global-footprints)
+- [Linguistic Ventures](#linguistic-ventures)
+- [Connect](#connect)
 
-## Degrees
-* **Computer Science Expert - Software Development** (Fachinformatiker*in für Anwendungsentwicklung, 2024 IHK Würzburg)\
-_This qualification relates to level 4 of the German and the European Qualifications Framework._
+### Degrees
 
-* **Industrial Clerk** (2005 IHK Heidelberg)\
-_This qualification relates to level 4 of the German and the European Qualifications Framework._
+- **Computer Science Expert - Software Development** (2024, IHK Würzburg)\
+  _Equivalent to level 4 in the German and European Qualifications Framework._
 
-## Skills
-* C#
-* CSS3
-* HTML5
-* JSON
-* Java
-* Javascript
-* PHP
-* Python
-* SQL
-* Typescript
+- **Industrial Clerk** (2005, IHK Heidelberg)\
+  _Equivalent to level 4 in the German and European Qualifications Framework._
 
-## Frameworks
-* ASP.NET Core Blazor
-* Laravel
-* NextJS
+### Skills
 
-## Operating System
-* Debian
-* Windows
+`C#` `CSS3` `HTML5` `JSON` `Java` `JavaScript` `PHP` `Python` `SQL` `TypeScript`
 
-## Experience
-* Webdesign - 25 years
-* Server Administration (Ubuntu, Debian) - 20 years
-* E-Commerce - 18 years
-* Music production - 25 years
-* Music publishing (LC 18242) - 19 years
-* Marketing / PR - 19 years
+### Frameworks
 
-## Special traits
-* Visually impaired (Juvenile macular dystrophy)
-* Neurodivergent as a symptom
+`ASP.NET Core Blazor` `Laravel` `NextJS`
 
-## Countries I stepped into (28 / 195)
-Besides Germany, I lived two years in Kyrgyzstan, Bishkek.\
-\
-🇦🇹 Austria\
-🇧🇦 Bosnia and Herzegovina\
-🇭🇷 Croatia\
-🇨🇿 Czech Republic\
-🇫🇮 Finland\
-🇫🇷 France\
-🇬🇪 Georgia\
-🇩🇪 Germany\
-🇭🇺 Hungary\
-🇮🇹 Italy\
-🇰🇿 Kazakhstan\
-🇰🇬 Kyrgyzstan\
-🇱🇻 Latvia\
-🇱🇺 Luxembourg\
-🇲🇦 Morocco\
-🇳🇱 Netherlands\
-🇵🇱 Poland\
-🇷🇴 Romania\
-🇷🇺 Russia\
-🇸🇰 Slovakia\
-🇸🇮 Slovenia\
-🇪🇸 Spain\
-🇨🇭 Switzerland\
-🇹🇭 Thailand\
-🇹🇳 Tunisia\
-🇹🇷 Turkey\
-🇺🇦 Ukraine\
-🇺🇸 United States of America
+### Operating Systems
 
-## Languages
-* German (still figuring out this one)
-* English (social and business level okayish)
-* Russian (Still learning, since 2014)
-* Ukrainian (exploring, started 2022)
+`Debian` `Windows`
 
-## Contact
-You can contact me via [datenkrake@scobiform.com](mailto:datenkrake@scobiform.com)\
-79612B620CC4A47C4B3B8382478A70606BAD6C79
+### Experience
 
-## EMAIL SELF-DEFENSE
-Bulk surveillance violates our fundamental rights and makes free speech risky. This guide will teach you a basic surveillance self-defense skill: email encryption.\
-https://emailselfdefense.fsf.org/en/
+- **Web Design**: 25 years
+- **Server Administration** (Ubuntu, Debian): 20 years
+- **E-Commerce**: 18 years
+- **Music Production**: 25 years
+- **Music Publishing** (LC 18242): 19 years
+- **Marketing / PR**: 19 years
+
+### Unique Qualities
+
+- Visually Impaired (Juvenile Macular Dystrophy)
+- Neurodivergent
+
+### Global Footprints
+
+Having ventured into 28 of 195 countries, my journey included a two-year stay in Bishkek, Kyrgyzstan. Here's a snapshot of my travels:
+
+🇦🇹 🇧🇦 🇭🇷 🇨🇿 🇫🇮 🇫🇷 🇬🇪 🇩🇪 🇭🇺 🇮🇹 🇰🇿 🇰🇬 🇱🇻 🇱🇺 🇲🇦 🇳🇱 🇵🇱 🇷🇴 🇷🇺 🇸🇰 🇸🇮 🇪🇸 🇨🇭 🇹🇭 🇹🇳 🇹🇷 🇺🇦 🇺🇸
+
+### Linguistic Ventures
+
+- **German**: Perpetually decoding.
+- **English**: Competent in both social and business contexts.
+- **Russian**: Learning since 2014.
+- **Ukrainian**: Exploring since 2022.
+
+### Connect
+
+Reach out via [datenkrake@scobiform.com](mailto:datenkrake@scobiform.com) for collaboration, queries, or a simple hello.
+
+**EMAIL SELF-DEFENSE**: In an era where bulk surveillance threatens our freedoms, learning the art of email encryption is a vital self-defense skill. Discover how to protect your communications with this [guide to email encryption](https://emailselfdefense.fsf.org/en/).
