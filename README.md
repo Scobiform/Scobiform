@@ -22,15 +22,7 @@
 
 ### Skills
 
-`C#` `CSS3` `HTML5` `JSON` `Java` `JavaScript` `PHP` `Python` `SQL` `TypeScript`
-
-### Frameworks
-
-`ASP.NET Core Blazor` `Laravel` `NextJS`
-
-### Operating Systems
-
-`Debian` `Windows`
+`C#` `CSS3` `HTML5` `JSON` `Java` `JavaScript` `PHP` `Python` `SQL` `TypeScript` ...
 
 ### Experience
 
