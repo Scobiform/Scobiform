@@ -22,7 +22,7 @@
 
 ### Skills
 
-`C#` `CSS3` `HTML5` `JSON` `Java` `JavaScript` `PHP` `Python` `SQL` `TypeScript` ...
+`C#` `CSS3` `HTML5` `JSON` `Java` `JavaScript` `PHP` `Python` `SQL` `TypeScript`
 
 ### Experience
 
