@@ -52,6 +52,8 @@ Having ventured into 28 of 195 countries, my journey included a two-year stay in
 - **Ukrainian**: Exploring since 2022.
 
 ### Connect
-Mail currently down. You can contact me via Signal: +4917641766600
+You can contact me via Signal: +4917641766600
+
+Reach out via datenkrake@scobiform.com for collaboration, queries, or a simple hello. 79612B620CC4A47C4B3B8382478A70606BAD6C79
 
 **EMAIL SELF-DEFENSE**: In an era where bulk surveillance threatens our freedoms, learning the art of email encryption is a vital self-defense skill. Discover how to protect your communications with this [guide to email encryption](https://emailselfdefense.fsf.org/en/).
