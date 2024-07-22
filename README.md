@@ -9,14 +9,6 @@
 - [Linguistic Ventures](#linguistic-ventures)
 - [Connect](#connect)
 
-### Degrees
-
-- **Computer Science Expert - Software Development** (2024, IHK Würzburg)\
-  _Equivalent to level 4 in the German and European Qualifications Framework._
-
-- **Industrial Clerk** (2005, IHK Heidelberg)\
-  _Equivalent to level 4 in the German and European Qualifications Framework._
-
 ### Skills
 
 `C#` `CSS3` `HTML5` `JSON` `Java` `JavaScript` `PHP` `Python` `SQL` `TypeScript`
