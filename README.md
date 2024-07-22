@@ -2,7 +2,6 @@
 
 ## Navigate My World
 
-- [Degrees](#degrees)
 - [Skills](#skills)
 - [Unique Qualities](#unique-qualities)
 - [Global Footprints](#global-footprints)
