@@ -4,9 +4,6 @@
 
 - [Degrees](#degrees)
 - [Skills](#skills)
-- [Frameworks](#frameworks)
-- [Operating Systems](#operating-systems)
-- [Experience](#experience)
 - [Unique Qualities](#unique-qualities)
 - [Global Footprints](#global-footprints)
 - [Linguistic Ventures](#linguistic-ventures)
