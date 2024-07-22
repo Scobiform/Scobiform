@@ -24,15 +24,6 @@
 
 `C#` `CSS3` `HTML5` `JSON` `Java` `JavaScript` `PHP` `Python` `SQL` `TypeScript`
 
-### Experience
-
-- **Web Design**: 25 years
-- **Server Administration** (Ubuntu, Debian): 20 years
-- **E-Commerce**: 18 years
-- **Music Production**: 25 years
-- **Music Publishing** (LC 18242): 19 years
-- **Marketing / PR**: 19 years
-
 ### Unique Qualities
 
 - Visually Impaired (Juvenile Macular Dystrophy)
