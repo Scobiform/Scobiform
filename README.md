@@ -31,7 +31,6 @@ Having ventured into 28 of 195 countries, my journey included a two-year stay in
 - **Ukrainian**: Exploring since 2022.
 
 ### Connect
-You can contact me via Signal: +4917641766600
 
 Reach out via datenkrake@scobiform.com for collaboration, queries, or a simple hello. 956E3E7A6BD09B555A0C710630917D6C6699A7C8
 
